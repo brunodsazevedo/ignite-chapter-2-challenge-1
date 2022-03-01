@@ -22,6 +22,7 @@ Para rodar os testes, basta aplicar o seguinte comando no terminal:
 
 O resultado será semelhandte ao da imagem abaixo.
 
+![print-tests](https://user-images.githubusercontent.com/58368716/156228120-8fbb9a66-5c5d-49a4-9592-70c39c1060f6.png)
 
 
 ## Rodando a aplicação
@@ -35,4 +36,7 @@ Depois execute o comando para iniciar a aplicação React:
 `$ yarn start`
 
 O Resultado esperado será esse:
+
+
+https://user-images.githubusercontent.com/58368716/156228266-6c9ae703-88e2-4cb2-8cc5-6b62c5565e94.mp4
 
